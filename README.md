@@ -1,4 +1,4 @@
-		//UPLOAD LECTURE
+		<!-- UPLOAD LECTURE -->
 <!DOCTYPE html>
 <html>
     <head>
@@ -83,7 +83,7 @@
 	</body>
 </html>
 
-			//Q AND A SESSION
+			<!-- Q AND A SESSION -->
 <!DOCTYPE html>
 <html>
          <head>
@@ -147,7 +147,7 @@
 </html>
 
 
-		//VIEW FEEDBACK
+		<!-- VIEW FEEDBACK -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -222,7 +222,7 @@
 </html>
 
 
-/* STYLING THE WHOLE BODY*/
+		/* CSS - STYLING THE WHOLE BODY */
 body{
 	background-color: rgb(234, 236, 253);
 	padding:2%;		
@@ -249,7 +249,7 @@ a:visited{
 	text-decoration: none;
 }
 
-
+		/*stying the navigation */
 nav{
 	font-weight: bold;
 	background: linear-gradient(to right, #2edfff, blue, #2edfff);
@@ -275,7 +275,7 @@ footer{
 }
 
 
-		/*POSITIONING OF THE WEB CONTENT HAS JUST BEGUN*/
+		/* POSITIONING OF THE WEB CONTENT */
 nav, section, footer{
 	position: absolute;
 }
@@ -326,7 +326,7 @@ footer{
 }
 
 
-		//STUDENT’S INTERFACE
+		<!-- STUDENT’S INTERFACE -->
 <!DOCTYPE html>
 <html>
 	 <head>
