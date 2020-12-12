@@ -325,3 +325,67 @@ footer{
 	text-align: center;
 }
 
+
+		//STUDENT’S INTERFACE
+<!DOCTYPE html>
+<html>
+	 <head>
+	        <meta charset="utf-8">
+	        <title>Course Information</title>
+     </head>
+	<link rel="stylesheet" type="text/css" href="MAIN.css">
+    <body>
+		<header>
+				<div id="navlist"> 
+        				<a href="home.html"><b>Home</b></a> 
+        				<a href="#"><b>Courses</b></a> 
+        				<a href="download_topic.html"><b>Lectures</b></a> 
+        			<div class="navlist-right"> 
+        				<a href="topic_evaluation.html"><b>Feedback</b></a> 
+        				<a href="Q_A.html"><b>Q and A</a>
+        				<a href="guide.html"> User Guide Manuals</a>
+        			<!-- seach bar right align -->
+        <div class="search"> 
+            <form action="#"> 
+                <input type="text"
+                    placeholder=" Search "
+                    name="search"> 
+                <button> 
+                    <i class="fa fa-search"
+                        style="font-size: 18px;"> 
+                    </i> 
+                </button> 
+            </form> 
+        </div> 
+    </div> 
+<select id="ops">
+        	<option> Log Out</option>
+        	<option> Forums</option>
+           <option> Notifications</option>
+        					<option> Profile Settings</option>
+        					<option> Feedback</option>
+        					<option> Courses</option>
+        					<option> Lectures</option>
+        					<option> Messages</option>
+        				</select> 
+        			      </div> 
+    			</div> 
+		</header>
+		<nav>
+			  <p class="nav_head"> Useful Links</p>
+			  		<br>
+					<a href="download_topic.html"> Download Lecture</a>
+					<br><br>
+					<a href="topic_evaluation.html"> Give Feedback </a>
+			    	<br><br>
+			<a href="Q_A.html"> Q and A Session </a>
+		<br><br>
+	</nav>
+    <footer>
+        <p>The University of Zambia <br> E-Learning Portal</p>
+        <a id="ref1" href="https://www.unza.zm">(https//:www.unza.zm)</a>
+    </footer>
+	</body>
+</html>
+
+
