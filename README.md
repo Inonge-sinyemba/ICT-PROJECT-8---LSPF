@@ -389,3 +389,71 @@ footer{
 </html>
 
 
+		<!-- DOWNLOAD LECTURE -->
+<!DOCTYPE html>
+<html>
+	 <head>
+	        <meta charset="utf-8">
+	        <title>Course Information</title>
+     </head>
+	<link rel="stylesheet" type="text/css" href="MAIN.css">
+    <body>
+	<header>
+		<div id="navlist"> 
+        			<a href="Student's Interface.html"><b>Home</b></a> 
+        			<a href="#"><b>Courses</b></a> 
+        			<a href="download_topic.html"><b>Lectures</b></a> 
+        		<div class="navlist-right"> 
+        				<a href="topic_evaluation.html"><b>Feedback</b></a> 
+        				<a href="Q_A.html"><b>Q and A</a>
+        				<a href="guide.html"><b> User Guide Manuals</a>	
+<!-- seach bar right align -->
+        <div class="search"> 
+            	<form action="#"> 
+                	<input type="text"
+                    	placeholder=" Search "
+                    	name="search"> 
+                <button> 
+                    <i class="fa fa-search"
+                        style="font-size: 18px;"> 
+                    </i> 
+                </button> 
+            </form> 
+        </div> 
+    </div> 		
+<fieldset class="download-set">
+                <p> Click on any Topic/Link to Download Topic</p>
+<style type="text/css">
+                    p{
+                        text-align: center;
+                        background-color: white;
+                        padding: 2.5px;
+                        margin-top: 3px;
+                        margin-left: 9px;
+                    }
+</style>
+                <p id="style2">
+                     <a href="#"> EXAMPLE ICT 1110: Number Systems and Representation</a>
+                     		<br><br>
+                     <a href="#"> EXAMPLE ICT 1110: Peripheral Devices and I/O Subsystem</a>
+                     		<br><br>
+                     <a href="#"> EXAMPLE ICT 1110: Operating System Functions and Services</a>
+                     		<br><br>
+                     <a href="#"> EXAMPLE ICT 1110: CPU Instruction Execution</a>
+                     		<br><br>
+                     <a href="#"> EXAMPLE ICT 1110: Primary Memory</a>
+                    		 <br><br>
+                     <a href="#"> EXAMPLE ICT 1110: Secondary Storage</a>
+                     		<br><br>
+                     <a href="#"> EXAMPLE ICT 1110: Instruction Set Architecture III</a>
+                     	<br><br>
+           </p>
+</fieldset>
+
+    <!--<footer>
+        			<p>The University of Zambia <br> E-Learning Portal</p>
+        			<a id="ref1" href="https://www.unza.zm">(https//:www.unza.zm)</a>
+    		</footer>-->
+	</body>
+</html>
+
