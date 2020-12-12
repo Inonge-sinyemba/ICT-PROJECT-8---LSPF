@@ -516,3 +516,67 @@ footer{
 	</body>
 </html>
 
+
+		<-- Q – A SESSION -->
+<!DOCTYPE html>
+<html>
+     <head>
+            <meta charset="utf-8">
+            <title>Course Information</title>
+     </head>
+    <link rel="stylesheet" type="text/css" href="MAIN.css">
+    <body>
+        <header> 
+                <div id="navlist"> 
+                        <a href="Student's Interface.html"><b>Home</b></a> 
+                        <a href="#"><b>Courses</b></a> 
+                        <a href="download_topic.html"><b>Lectures</b></a> 
+                    <div class="navlist-right"> 
+                        <a href="topic_evaluation.html"><b>Feedback</b></a> 
+                        <a href="Q_A.html"><b>Q and A</a>
+                        <a href="#"><b> User Guide Manuals</a>
+<!-- seach bar right align -->
+        <div class="search"> 
+            <form action="#"> 
+                <input type="text"
+                    placeholder=" Search "
+                    name="search"> 
+                <button> 
+                    <i class="fa fa-search"
+                        style="font-size: 18px;"> 
+                    </i> 
+                </button> 
+            </form> 
+        </div> 
+    </div> 
+            <fieldset class="download-set">
+                <p> Comments:</p>
+                <form class="com" method="get" action="View_feedback.html">
+                    <textarea id="cont" name="Comment" rows="15" cols="179">
+                    </textarea>
+       </form>
+            <button type="submit"> Submit </button>
+                <style type="text/css">
+                    p{
+                        text-align: center;
+                        background-color: white;
+                        padding: 2.5px;
+                        margin-top: 3px;
+                        margin-left: 9px;
+                    }
+                    .com{
+                        padding-left: 8px;
+                    }
+                    #cont{
+                        padding: 10px;
+                        line-height: 20px;
+                    }
+                    button{
+                        margin-left: 8px;
+                        background-color: green;
+                    }
+                </style>
+            </fieldset>
+    </body>
+</html>
+
