@@ -580,3 +580,124 @@ footer{
     </body>
 </html>
 
+
+		<!-- GUIDE MANUALS -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Manuals & Guidance</title>
+	</head>
+<link rel="stylesheet" type="text/css" href="MAIN.css">
+<body>
+	<header>
+		<div id="navlist"> 
+        		<a href="home.html"><b>Home</b></a> 
+        		<a href="#"><b>Courses</b></a> 
+        		<a href="download_topic.html"><b>Lectures</b></a> 
+<div class="navlist-right"> 
+        	<a href="topic_evaluation.html"><b>Feedback</b></a> 
+        		<a href="Q_A.html"><b>Q and A</a>
+        		<a href="guide.html"><b> User Guide Manuals</b></a>
+        				<!-- seach bar right align -->
+        <div class="search"> 
+            <form action="#"> 
+                <input type="text"
+                    placeholder=" Search "
+                    name="search"> 
+               <button> 
+                    <i class="fa fa-search"
+                        style="font-size: 18px;"> 
+                    </i> 
+                </button> 
+            </form> 
+        </div> 
+    </div> 
+        			</div> 
+    			</div> 
+
+		</header>
+<nav>
+	  <p class="nav_head"> Useful Links</p>
+		<br>
+			<a href="download_topic.html"> Download Lecture</a>
+			<br><br>
+			<a href="topic_evaluation.html"> Give Feedback </a>
+			<br><br>
+			<a href="Q_A.html"> Q and A Session </a>
+			<br><br>
+</nav>
+<section>
+	<h4>DOWNLOADING LECTURES</h4>
+	<P>
+		<ol>
+			<li>Click on the <a id="linkit" href="download_topic.html"> Download Lecture</a></u> link in the <em>Navigation Pane</em> or <em>Header</em>.</li>
+			<li>A window with a list of Topics will be displayed.</li>
+			<li>Click on any Topic and will be automatically downloaded.</li>
+		</ol>
+	</P>
+	<h4>RATING TOPICS</h4>
+		<p> 
+			<ol>
+				<li>Click on the <a id="linkit" href=""> Give Feedback</a> link in the <em> Navigation Pane</em> or <em>Header</em>.</li>
+				<li>A window with a list of Topics next to Radio Buttons will be displayed.</li>
+				<li>For each Topic, click on any toggle between the <em>YES</em> and <em>NO</em> button to pick the answer that suits your understanding of the topic.</li>
+				<li>Click on the <em>Submit</em> button at the bottom.</li>
+				<li>A new Screen will be displayed, requesting for confirmation.</li>
+				<li>Click on <em>Submit</em> to confirm, and <em>Cancel</em> to return to the previous page</li>
+				<li>Upon clicking the Submit button, a New Screen will appear requesting you to <em>Log Out</em> or to go <em>Back</em> to the Home page.</li>
+			</ol>
+		</p>
+
+	<h4>Q AND A SESSION</h4>
+		<p> 
+			<ol>
+				<li>Click on the <a id="linkit" href="Q_A.html">Q and A Session</a> in the <em>Navigation Pane</em> or in the Header <a id="linkit" href="Q_A.html">Q and A</a>.</li>
+				<li>A New Screen will be displayed.</li>
+			</ol>
+		</p>
+</section>
+ <footer>
+        <p>The University of Zambia <br> E-Learning Portal</p>
+        <a id="ref1" href="https://www.unza.zm">(https//:www.unza.zm)</a>
+    </footer>
+<style type="text/css">
+	#linkit{
+		color: blue;
+		text-decoration: underline;
+	}
+	h4{
+		color: navy;
+		text-align: left;
+	}
+		</style>
+	</body>
+</html>
+LOG OUT 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Course Info</title>
+</head>
+	<!-- WE ARE NOW SETTING THE BODY OF THE WEBPAGE -->
+<body>
+	<link rel="stylesheet" type="text/css" href="MAIN.css">
+		<fieldset>
+			<p id="instruction"></p>
+			<form id="rate" action="Student's Interface.html" method="post">		
+<!-- PROVIDE CONTROL BUTTONS FOR CONFIRMATION OF FEEDBACK SUBMISSION -->
+		<p id="buttons2"> 
+			<input type="submit" value="Back">
+			<input type="button" value="Logout">
+		</p>
+	</form>
+</fieldset>
+    <footer>
+        <p>The University of Zambia <br> E-Learning Portal</p>
+        <a id="ref1" href="https://www.unza.zm">(https//:www.unza.zm)</a>
+    		</footer>
+	</body>
+</html>
+
