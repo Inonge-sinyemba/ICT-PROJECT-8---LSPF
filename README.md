@@ -222,3 +222,106 @@
 </html>
 
 
+/* STYLING THE WHOLE BODY*/
+body{
+	background-color: rgb(234, 236, 253);
+	padding:2%;		
+	line-height: 25px; /* Space between sentences*/
+	margin: 2%;
+}
+
+
+		/* STYLING THE LINKS */
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: none;
+}
+a:active{
+	color: red;
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+
+nav{
+	font-weight: bold;
+	background: linear-gradient(to right, #2edfff, blue, #2edfff);
+	width: 18%;
+	height:60%;
+	border:4px inset;
+}
+
+
+li {
+	font-size: bigger;
+	list-style-type:none;
+}
+
+section{
+	padding:10px;
+	text-align:justify;
+}
+
+footer{ 
+	border-top:1px inset;
+	text-align: center;
+}
+
+
+		/*POSITIONING OF THE WEB CONTENT HAS JUST BEGUN*/
+nav, section, footer{
+	position: absolute;
+}
+
+nav, section{
+	top: 25%;
+	margin-top: 1px;
+}
+
+section{
+	left:240px;
+	right: 25px;
+}
+
+footer{
+	top:681px;
+	left:240px;
+	right: 25px;
+}
+
+
+		/* STYLING THE SUBMISSION PAGES*/
+.Picker{
+	margin: 0.5%;
+	width: 98.5%;
+	height: 30px;
+    border-style: inset;
+	background: radial-gradient(#2edfff, blue, #2edfff);
+	text-align: center;
+	color: white;
+}
+
+.but{
+	font-family: times new roman;
+}
+
+#instruction{
+	height: 199px;
+	background-image: url(banner1.png);
+	background-repeat: repeat-x;
+	border: inset 2px;
+}
+
+#buttons2{
+	margin-top: 2%;
+	font-size: 20px;
+	text-align: center;
+}
+
