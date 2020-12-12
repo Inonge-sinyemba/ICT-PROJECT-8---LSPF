@@ -457,3 +457,62 @@ footer{
 	</body>
 </html>
 
+
+		<!-- TOPIC EVALUATION -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Feed Back</title>
+</head>
+<!-- WE ARE NOW SETTING THE BODY OF THE WEBPAGE -->
+<body>
+	<link rel="stylesheet" type="text/css" href="MAIN.css">
+	<fieldset>
+		<p id="instruction"></p>
+		<form id="rate" action="confirm-feed-sub.html" method="post">
+<p1><b> <a href=""> Example Topic1:</a> </b> <input type="radio" name="rate" value="Unclear"> Vague
+<input type="radio" name="rate" value="Understood"> Understood </p1>
+   <br><br>
+      <br><br>
+<!-- PROVIDE CONTROL BUTTONS FOR SUBMISSION & RESET-->
+				<p id="buttons"> 
+					<input type="submit" value="Submit Feedback">
+					<input type="reset" value="Cancel">
+				</p>
+		</form>
+	      </fieldset>
+	<footer>
+        <p>The University of Zambia <br> E-Learning Portal</p>
+        <a id="ref1" href="https://www.unza.zm">(https//:www.unza.zm)</a>
+		</footer>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Feed Back</title>
+	</head>
+<body>
+	<link rel="stylesheet" type="text/css" href="MAIN.css">
+<fieldset>
+	<form id="rate" action="logout.html" method="post">	
+<!-- PROVIDE CONTROL BUTTONS FOR CONFIRMATION OF FEEDBACK SUBMISSION -->
+		<p id="instruction">
+			<p id="buttons2"> 
+			Are sure you want to submit feedback?
+			<br><br>
+			<input type="submit" value="Submit">
+			<input type="reset" value="Cancel">
+		</p>
+	</form>
+</fieldset>
+		<footer>
+        			<p>The University of Zambia <br> E-Learning Portal</p>
+        			<a id="ref1" href="https://www.unza.zm">(https//:www.unza.zm)</a>
+		</footer>
+	</body>
+</html>
+
