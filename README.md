@@ -9,13 +9,13 @@
     <body>
         <header>
                 <div id="navlist"> 
-                        <a href="home.html"><b>Home</b></a> 
+                        <a href="home.html" target="blank"><b>Home</b></a> 
                         <a href="#"><b>Courses</b></a> 
-                        <a href="download_topic.html"><b>Lectures</b></a> 
+                        <a href="download_topic.html" target="blank"><b>Lectures</b></a> 
                     <div class="navlist-right"> 
-                        <a href="topic_evaluation.html"><b>Feedback</b></a> 
-                        <a href="Q_A.html"><b>Q and A</a>
-                        <a href="guide.html"> User Guide Manuals</a>
+                        <a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
+                        <a href="Q_A.html" target="blank"><b>Q and A</a>
+                        <a href="guide.html" taregt="blank"> User Guide Manuals</a>
                         <!-- seach bar right align -->
         <div class="search"> 
             <form action="#"> 
@@ -45,9 +45,9 @@
         </header>
     	<nav>
     	       <ul>
-    	    	<li><a href="Lspf_System.html">Upload Lecture</a></li>
+    	    	<li><a href="Lspf_System.html" target="blank">Upload Lecture</a></li>
                               <br><br>
-    	    	<li><a href="View_feedback.html">View Feedback</a></li>
+    	    	<li><a href="View_feedback.html" target="blank">View Feedback</a></li>
                               <br><br>
      		<li><a href="Q_A.html">Schedule Q and A</a></li>
      	      </ul>  
@@ -94,11 +94,11 @@
 <body>
           <header>
                 <div id="navlist"> 
-                        <a href="Student's Interface.html"><b>Home</b></a> 
+                        <a href="Student's Interface.html" target="blank"><b>Home</b></a> 
                         <a href="#"><b>Courses</b></a> 
-                        <a href="download_topic.html"><b>Lectures</b></a> 
+                        <a href="download_topic.html" target="blank"><b>Lectures</b></a> 
                 <div class="navlist-right"> 
-                        <a href="topic_evaluation.html"><b>Feedback</b></a> 
+                        <a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
                         <a href="Q_A.html"><b>Q and A</a>
                         <a href="#"><b> User Guide Manuals</a>
 <!-- seach bar right align -->
@@ -158,13 +158,13 @@
 <body>
 	<header>
 				<div id="navlist"> 
-        				<a href="home.html"><b>Home</b></a> 
+        				<a href="home.html" target="blank"><b>Home</b></a> 
         				<a href="#"><b>Courses</b></a> 
-        				<a href="download_topic.html"><b>Lectures</b></a> 
+        				<a href="download_topic.html" target="blank"><b>Lectures</b></a> 
         			<div class="navlist-right"> 
-        				<a href="topic_evaluation.html"><b>Feedback</b></a> 
+        				<a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
         				<a href="Q_A.html"><b>Q and A</a>
-        				<a href="guide.html"> User Guide Manuals</a>
+        				<a href="guide.html" target="blank"> User Guide Manuals</a>
         				<!-- seach bar right align -->
         <div class="search"> 
             <form action="#"> 
@@ -194,9 +194,9 @@
 	</header>
 <nav>
             <ul>
-                <li><a href="Lspf_System.html">Upload Lecture</a></li>
+                <li><a href="Lspf_System.html" target="blank">Upload Lecture</a></li>
                 <br><br>
-                <li><a href="View_feedback.html">View Feedback</a></li>
+                <li><a href="View_feedback.html" target="blank">View Feedback</a></li>
                 <br><br>
                 <li><a href="Q_A.html">Schedule Q and A</a></li>
             </ul>  
@@ -337,13 +337,13 @@ footer{
     <body>
 		<header>
 				<div id="navlist"> 
-        				<a href="home.html"><b>Home</b></a> 
+        				<a href="home.html" target="blank"><b>Home</b></a> 
         				<a href="#"><b>Courses</b></a> 
-        				<a href="download_topic.html"><b>Lectures</b></a> 
+        				<a href="download_topic.html" target="blank"><b>Lectures</b></a> 
         			<div class="navlist-right"> 
-        				<a href="topic_evaluation.html"><b>Feedback</b></a> 
+        				<a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
         				<a href="Q_A.html"><b>Q and A</a>
-        				<a href="guide.html"> User Guide Manuals</a>
+        				<a href="guide.html" target="blank"> User Guide Manuals</a>
         			<!-- seach bar right align -->
         <div class="search"> 
             <form action="#"> 
@@ -374,11 +374,11 @@ footer{
 		<nav>
 			  <p class="nav_head"> Useful Links</p>
 			  		<br>
-					<a href="download_topic.html"> Download Lecture</a>
+					<a href="download_topic.html" target="blank"> Download Lecture</a>
 					<br><br>
-					<a href="topic_evaluation.html"> Give Feedback </a>
+					<a href="topic_evaluation.html" target="blank"> Give Feedback </a>
 			    	<br><br>
-			<a href="Q_A.html"> Q and A Session </a>
+			<a href="Q_A.html" target="blank"> Q and A Session </a>
 		<br><br>
 	</nav>
     <footer>
@@ -400,13 +400,13 @@ footer{
     <body>
 	<header>
 		<div id="navlist"> 
-        			<a href="Student's Interface.html"><b>Home</b></a> 
+        			<a href="Student's Interface.html" target="blank"><b>Home</b></a> 
         			<a href="#"><b>Courses</b></a> 
-        			<a href="download_topic.html"><b>Lectures</b></a> 
+        			<a href="download_topic.html" target="blank"><b>Lectures</b></a> 
         		<div class="navlist-right"> 
-        				<a href="topic_evaluation.html"><b>Feedback</b></a> 
-        				<a href="Q_A.html"><b>Q and A</a>
-        				<a href="guide.html"><b> User Guide Manuals</a>	
+        				<a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
+        				<a href="Q_A.html" target="blank"><b>Q and A</a>
+        				<a href="guide.html" target="blank"><b> User Guide Manuals</a>	
 <!-- seach bar right align -->
         <div class="search"> 
             	<form action="#"> 
@@ -528,12 +528,12 @@ footer{
     <body>
         <header> 
                 <div id="navlist"> 
-                        <a href="Student's Interface.html"><b>Home</b></a> 
+                        <a href="Student's Interface.html" target="blank"><b>Home</b></a> 
                         <a href="#"><b>Courses</b></a> 
-                        <a href="download_topic.html"><b>Lectures</b></a> 
+                        <a href="download_topic.html" target="blank"><b>Lectures</b></a> 
                     <div class="navlist-right"> 
-                        <a href="topic_evaluation.html"><b>Feedback</b></a> 
-                        <a href="Q_A.html"><b>Q and A</a>
+                        <a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
+                        <a href="Q_A.html" target="blank"><b>Q and A</a>
                         <a href="#"><b> User Guide Manuals</a>
 <!-- seach bar right align -->
         <div class="search"> 
@@ -592,13 +592,13 @@ footer{
 <body>
 	<header>
 		<div id="navlist"> 
-        		<a href="home.html"><b>Home</b></a> 
+        		<a href="home.html" target="blank"><b>Home</b></a> 
         		<a href="#"><b>Courses</b></a> 
-        		<a href="download_topic.html"><b>Lectures</b></a> 
+        		<a href="download_topic.html" target="blank"><b>Lectures</b></a> 
 <div class="navlist-right"> 
-        	<a href="topic_evaluation.html"><b>Feedback</b></a> 
-        		<a href="Q_A.html"><b>Q and A</a>
-        		<a href="guide.html"><b> User Guide Manuals</b></a>
+        	<a href="topic_evaluation.html" target="blank"><b>Feedback</b></a> 
+        		<a href="Q_A.html" target="blank"><b>Q and A</a>
+        		<a href="guide.html" target="blank"><b> User Guide Manuals</b></a>
         				<!-- seach bar right align -->
         <div class="search"> 
             <form action="#"> 
@@ -620,11 +620,11 @@ footer{
 <nav>
 	  <p class="nav_head"> Useful Links</p>
 		<br>
-			<a href="download_topic.html"> Download Lecture</a>
+			<a href="download_topic.html" target="blank"> Download Lecture</a>
 			<br><br>
-			<a href="topic_evaluation.html"> Give Feedback </a>
+			<a href="topic_evaluation.html" target="blank"> Give Feedback </a>
 			<br><br>
-			<a href="Q_A.html"> Q and A Session </a>
+			<a href="Q_A.html" target="blank"> Q and A Session </a>
 			<br><br>
 </nav>
 <section>
